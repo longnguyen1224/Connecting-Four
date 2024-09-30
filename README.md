@@ -1,2 +1,9 @@
 # Connecting-Four
-This is a game for midterm project written in Java on Android Studio.I am using function to check player win, or lose in a game. This game has created a map with 7x6 and I draw it by activity_main.xml in Android Studio. I am focus on how players can win, lose, or draw.
+Connecting Four is a mobile game developed in Java using Android Studio, designed to provide an interactive and engaging experience for users. The game implements win/loss detection and game outcome logic (win, lose, or draw), ensuring accurate feedback to players after each match. The project focuses on delivering smooth gameplay and intuitive user interactions, enhancing both player experience and interface design. This project helped refine my skills in mobile development, Java, and Android UI/UX design.
+
+Key Features:
+
+- Developed using Java in Android Studio for mobile platforms.
+- Implements accurate win/loss detection and game outcome logic.
+- Focuses on creating a smooth and engaging user experience through thoughtful UI/UX design.
+
